@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/13RnewOU59lp1skdfm_6ooVwWgOG4IngP
 """
 
-pip install yfinance matplotlib
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
