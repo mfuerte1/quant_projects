@@ -1,0 +1,6 @@
+[09-17-2024 22:53:31] INFO: Starting Theta Terminal v1.6.7 Revision A...
+[09-17-2024 22:53:31] INFO: Config dir: /Users/marcosfuerte/ThetaData/ThetaTerminal
+[09-17-2024 22:53:32] INFO: [MDDS] Attempting login as default
+[09-17-2024 22:53:32] INFO: [FPSS] Attempting login as default
+[09-17-2024 22:53:32] INFO: [MDDS] CONNECTED: [nj-a.thetadata.us:12000], Bundle: STOCK.FREE, OPTION.FREE, INDEX.FREE
+[09-17-2024 22:53:32] INFO: [FPSS] CONNECTED: [nj-a.thetadata.us:20000], Bundle: STOCK.FREE, OPTION.FREE, INDEX.FREE

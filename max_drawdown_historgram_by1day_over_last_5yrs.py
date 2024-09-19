@@ -7,15 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/13RnewOU59lp1skdfm_6ooVwWgOG4IngP
 """
 
-pip install yfinance matplotlib
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import yfinance as yf
 
 # Step 1: Download historical stock price data for AAPL
-ticker = 'AAPL'
+ticker = 'GOOGL'
 data = yf.download(ticker, period='5y', interval='1d')
 
 # Step 2: Calculate the drawdown
